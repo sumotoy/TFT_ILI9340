@@ -54,7 +54,7 @@ A hyper fast SPI driver for Ilitek ILI9340 TFT 2.2" displays
 	''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 	Special Thanks:
 	Thanks Adafruit for his Adafruit_GFX!
-	Thanks to Paul Stoffregen for his beautiful Teensy3 and DMA SPI.
+	Thanks to Paul Stoffregen for his beautiful Teensy3 and native SPI.
 	
 	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 	Version:
