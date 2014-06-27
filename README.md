@@ -3,7 +3,7 @@ TFT_ILI9340
 
 A hyper fast SPI driver for Ilitek ILI9340 TFT 2.2" displays
 	Features:
-	- Very FAST!, expecially with Teensy 3.x where uses DMA SPI.
+	- Very FAST!, expecially with Teensy 3.x where uses native SPI.
 	- It uses just 4 or 5 wires.
 	- Compatible at command level with Adafruit display series so it's easy to adapt existing code.
 	- It uses the standard Adafruit_GFX Library (you need to install). 
