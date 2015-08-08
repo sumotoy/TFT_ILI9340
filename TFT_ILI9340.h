@@ -58,6 +58,7 @@
 	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 	Version:
 	0.5b1: First one and working.
+	0.6: Compatibility with Teensyduino 1.24
 	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 	BugList of the current version:
 	
