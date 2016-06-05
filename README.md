@@ -1,7 +1,7 @@
 TFT_ILI9340 - TFT_ILI9340C - TFT_ILI9341
 ============================================
 
-A hyper fast SPI driver for Ilitek ILI9340 TFT 2.2" displays
+A new version based on TFT_ILI9163C library for Ilitek TFT_ILI9340 - TFT_ILI9340C - TFT_ILI9341
   
   Features:
   
