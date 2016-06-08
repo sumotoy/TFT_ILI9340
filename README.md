@@ -1,4 +1,6 @@
-TFT_ILI9340
+TFT_ILI9340 (OUTDATED!)
+<b>A much better and faster version here:</b><br>
+https://github.com/sumotoy/TFT_ILI93XX/
 ===========
 
 A hyper fast SPI driver for Ilitek ILI9340 TFT 2.2" displays
